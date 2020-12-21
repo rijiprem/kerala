@@ -19,7 +19,7 @@
               <div class="collapse navbar-collapse" id="navbarNavDropdown">
                 <ul class="navbar-nav">
                   <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                    <a class="nav-link active" aria-current="page" href="index.php">Home</a>
                   </li>
                   
                   <li class="nav-item dropdown">
@@ -27,24 +27,24 @@
                       Destinations
                     </a>
                     <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
-                      <li><a class="dropdown-item" href="munnar.html">മൂന്നാര്‍</a></li>
-                      <li><a class="dropdown-item" href="varkala.html">വര്‍ക്കല </a></li>
-                      <li><a class="dropdown-item" href="ponmudi.html">പൊന്മുടി</a></li>
+                      <li><a class="dropdown-item" href="munnar.php">മൂന്നാര്‍</a></li>
+                      <li><a class="dropdown-item" href="varkala.php">വര്‍ക്കല </a></li>
+                      <li><a class="dropdown-item" href="ponmudi.php">പൊന്മുടി</a></li>
                     </ul>
                   </li>
 
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="history.html">History</a>
+                    <a class="nav-link" href="history.php">History</a>
                   </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="Arts.html">Art Forms</a>
+                        <a class="nav-link" href="Arts.php">Art Forms</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="pilgrimage.html">PILGRIMAGE CENTRES</a>
+                        <a class="nav-link" href="pilgrimage.php">PILGRIMAGE CENTRES</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="personalities.html">Prominent Personalities</a>
+                        <a class="nav-link" href="personalities.php">Prominent Personalities</a>
                       </li>
                 </ul>
               </div>
